@@ -1,0 +1,6 @@
+<svg width="124" height="56" viewBox="0 0 124 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="28" fill="#131826" fill-opacity="0.1"/>
+<path d="M29.75 36.25L22.75 29.25L38 29.25L38 26.75L22.75 26.75L29.75 19.75L28 18L18 28L28 38L29.75 36.25Z" fill="#131826"/>
+<rect x="124" y="56" width="56" height="56" rx="28" transform="rotate(-180 124 56)" fill="#131826" fill-opacity="0.1"/>
+<path d="M94.25 19.75L101.25 26.75L86 26.75L86 29.25L101.25 29.25L94.25 36.25L96 38L106 28L96 18L94.25 19.75Z" fill="#131826"/>
+</svg>
